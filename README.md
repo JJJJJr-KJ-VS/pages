@@ -1,2 +1,2 @@
-# Kaliumjodid.github.io
+#github.io
 just trying some stuff with github pages
